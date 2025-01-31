@@ -8,7 +8,7 @@ This report presents key findings from an analysis of website traffic data. The 
 ## Observations  
 ### 1. Traffic Source Distribution  
 - The majority of website traffic comes from **Organic Search (786 visits)**, followed by **Paid Ads (428 visits)** and **Referral Traffic (301 visits)**.  
-Direct Traffic (216 visits) is the least common source, indicating lower brand recall or direct engagement.
+- Direct Traffic (216 visits) is the least common source, indicating lower brand recall or direct engagement.
 
 ### 2. User Engagement Trends  
 The average session duration is 3.02 seconds, but it varies widely, with some sessions lasting over 20 seconds.  
